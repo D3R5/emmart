@@ -1,4 +1,4 @@
-# Emmart
+# Emmart ReactJs
 
 
 ## Home page
@@ -14,11 +14,7 @@
 ![shp2](https://github.com/D3R5/emmart/assets/117954097/766e4359-d62c-4bb2-9c7b-6d027acd98b1)
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
