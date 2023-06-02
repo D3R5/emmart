@@ -8,10 +8,10 @@
 ![pp](https://github.com/D3R5/emmart/assets/117954097/2ab59217-599e-45a6-adbc-897e6663154b)
 
 ## Detail page
-![dp](https://github.com/D3R5/emmart/assets/117954097/93dda249-1ab5-471f-80fd-9f3b5cc76a12)
+![dp2](https://github.com/D3R5/emmart/assets/117954097/ac143097-a060-4717-a9e7-f0d56118d6cb)
 
 ## Shopping cart page
-![shp](https://github.com/D3R5/emmart/assets/117954097/bb98960e-e5fc-40e9-98dd-27cb438ac5a5)
+![shp2](https://github.com/D3R5/emmart/assets/117954097/766e4359-d62c-4bb2-9c7b-6d027acd98b1)
 
 
 # Getting Started with Create React App
